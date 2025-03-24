@@ -1,6 +1,6 @@
 rm(list=ls())
 
-setwd("D://The Stats Way//MODELOS FINAIS//MODELO RATING JOGADORES//24-25")
+setwd("D://")
 
 #install.packages("xgboost")
 library(xgboost)
